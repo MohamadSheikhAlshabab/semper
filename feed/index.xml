@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Semper Talentum</title>
+	<title></title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Tue, 28 May 2024 11:55:15 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 04 Jun 2024 08:41:54 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
